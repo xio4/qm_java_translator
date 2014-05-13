@@ -1,0 +1,7 @@
+/bin
+/lib
+/com/xiovr/test
+/test-output
+run_example.sh
+run_test.sh
+!.gitignore
